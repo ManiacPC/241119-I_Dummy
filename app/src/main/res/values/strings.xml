@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Aplication Dummy</string>
+    <string name="btn_aceptar">Aceptar!</string>
 </resources>
